@@ -1,0 +1,46 @@
+body{
+    background:skyblue;
+}
+
+
+.main{
+    border: 2px solid black;
+    width: 189px;
+    margin: 0 auto;
+    background-color: gainsboro;
+    height: 270px;
+}
+
+
+.result{
+    margin-top: 1px;
+    width: 97%;
+    height: 30px;
+    background-color: whitesmoke;
+    color: black;
+}
+
+.clearBtn{
+    width: 101%;
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
+
+.btn{
+    background-color: honeydew;
+    width: 30px;
+    margin: 1px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+
+.h{
+    text-align: center;
+}
+
+.h2{
+    margin-top: 5px;
+    font-size: 10px;
+    margin-left:10px;
+}
